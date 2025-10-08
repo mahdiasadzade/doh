@@ -1,0 +1,4 @@
+name = "doh"
+workers_dev = true
+compatibility_date = "2022-10-21"
+main = "index.js"
